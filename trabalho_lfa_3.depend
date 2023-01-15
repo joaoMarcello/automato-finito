@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1556976494 source:c:\users\jm\documents\5 periodo\lfa\programas\trabalho_lfa_3\afe.cpp
+	<iostream>
+	<list>
+	"afe.h"
+
+1556976705 c:\users\jm\documents\5 periodo\lfa\programas\trabalho_lfa_3\afe.h
+	<string>
+	<list>
+
+1560853473 source:d:\joaomarcello\documents\5 periodo\lfa\trabalho_lfa_3\afe.cpp
+	<iostream>
+	<list>
+	"afe.h"
+
+1560853346 d:\joaomarcello\documents\5 periodo\lfa\trabalho_lfa_3\afe.h
+	<string>
+	<list>
+
+1560853876 source:d:\joaomarcello\documents\5 periodo\lfa\trabalho_lfa_3\main.cpp
+	<iostream>
+	<string>
+	"afe.h"
+
